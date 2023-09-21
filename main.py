@@ -101,8 +101,6 @@ def main() -> str:
 
     rename_files(path)
 
-    
-    
     return "All right"
 
 if __name__ == '__main__':
